@@ -47,9 +47,6 @@ Token-efficient communication. Cuts filler, keeps technical accuracy.
 | `lite` | No filler. Keep articles + full sentences |
 | `full` | Drop articles, fragments OK, short synonyms |
 | `ultra` | Abbreviations, arrows for causality (X → Y), one word when enough |
-| `wenyan-lite` | Semi-classical Chinese register |
-| `wenyan-full` | 文言文 — 80-90% character reduction |
-| `wenyan-ultra` | Maximum classical compression |
 
 Switch levels: `/caveman lite` · `/caveman ultra` · etc.  
 Deactivate: say `stop caveman` or `normal mode`.
