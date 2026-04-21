@@ -1,0 +1,11 @@
+{
+    "name": "preludium-skills",
+    "version": "1.0.0",
+    "description": "Personal skill library — curated Claude Code skills for compressed communication, code review, and development workflows.",
+    "author": {
+        "name": "Preludium"
+    },
+    "license": "MIT",
+    "skills": "./skills/",
+    "hooks": "./hooks/hooks.json"
+}
