@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-kit",
+  "description": "Personal Claude Code plugin — curated skills for compressed communication, code review, and structured reasoning.",
+  "owner": {
+    "name": "Preludium",
+    "url": "https://github.com/preludium"
+  },
+  "plugins": [
+    {
+      "name": "preludium-skills",
+      "description": "Curated skills for compressed communication, code review, and development workflows.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
